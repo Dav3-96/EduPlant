@@ -717,3 +717,51 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.30-15.09.10:669][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2023.04.30-15.09.10:671][  0]LogContentStreaming: Texture pool size now 800 MB
 [2023.04.30-15.09.10:708][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.30-15.10.28:105][251]LogDerivedDataCache: C:/Users/davii/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.463 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.30-15.10.50:802][334]LogSlate: Took 0.015064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.30-15.10.51:066][334]LogSlate: Took 0.027835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.30-15.11.20:054][530]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.30-15.11.20:060][530]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.30-15.11.20:065][531]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.30-15.11.22:250][788]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.04.30-15.11.22:252][788]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.30-15.12.00:423][668]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.30-15.12.00:434][668]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.30-15.12.00:439][669]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.30-15.12.01:400][782]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2023.04.30-15.12.01:400][782]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.30-15.12.11:865][247]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.30-15.12.11:876][247]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.30-15.12.11:880][248]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.30-15.12.13:429][431]LogContentBrowser: Attempting asset rename: NewFolder -> Structs
+[2023.04.30-15.12.13:429][431]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.30-15.12.21:592][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var10_lod0': Can't find file.
+[2023.04.30-15.12.21:610][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var10_lod0'
+[2023.04.30-15.12.21:610][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var11_lod0': Can't find file.
+[2023.04.30-15.12.21:610][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var11_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var12_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var12_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var13_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var13_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var14_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var14_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var1_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var1_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var2_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var2_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var3_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var3_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var4_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var4_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var5_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var5_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var6_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var6_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var7_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var7_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var8_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var8_lod0'
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: [AssetLog] D:\UE5\EduPlant\EduPlant\Content\Blueprints\Structs\S_FieldPoppy.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var9_lod0': Can't find file.
+[2023.04.30-15.12.21:611][797]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var9_lod0'
+[2023.04.30-15.12.21:989][797]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structs/S_FieldPoppy.S_FieldPoppy
+[2023.04.30-15.12.25:576][138]LogSlate: Window 'S_FieldPoppy' being destroyed
