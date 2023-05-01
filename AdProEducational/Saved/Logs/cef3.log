@@ -1,2 +1,19 @@
 [0421/161958.472:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0421/161958.489:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0501/090305.776:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0501/090305.777:ERROR:entry_impl.cc(1076)] No file for c1030744
+[0501/090305.777:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090305.777:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090305.777:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090305.777:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090305.777:ERROR:entry_impl.cc(1076)] No file for c1030740
+[0501/090305.777:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090305.777:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090305.777:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090305.777:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090305.777:ERROR:entry_impl.cc(1076)] No file for c1030742
+[0501/090305.777:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090305.778:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090305.778:WARNING:storage_block-inl.h(146)] Failed data load.
+[0501/090320.187:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 9
+[0501/090320.193:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 29
